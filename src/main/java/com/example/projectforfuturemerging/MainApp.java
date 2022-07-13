@@ -10,7 +10,7 @@ public class MainApp {
 
     @GetMapping("lorem")
     public String lorem() {
-        return "lorem ipsum";
+        return "dolor sit";
     }
 }
 
